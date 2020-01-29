@@ -1,0 +1,12 @@
+﻿  Sort.cpp
+c:\users\s199083\source\repos\simurdak_sortingassess\simurdak_sortingassess\sort.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199083\source\repos\simurdak_sortingassess\simurdak_sortingassess\sort.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199083\source\repos\simurdak_sortingassess\simurdak_sortingassess\sort.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199083\source\repos\simurdak_sortingassess\simurdak_sortingassess\sort.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199083\source\repos\simurdak_sortingassess\simurdak_sortingassess\sort.cpp(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199083\source\repos\simurdak_sortingassess\simurdak_sortingassess\sort.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199083\source\repos\simurdak_sortingassess\simurdak_sortingassess\sort.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\s199083\source\repos\simurdak_sortingassess\simurdak_sortingassess\sort.cpp(130): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  Simurdak_SortingAssess.vcxproj -> C:\Users\s199083\source\repos\Simurdak_SortingAssess\Debug\Simurdak_SortingAssess.exe
