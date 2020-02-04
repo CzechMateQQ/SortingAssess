@@ -19,8 +19,6 @@ public:
 	void pop_back();
 	void bubbleSort(int order);
 	void insertSort(int order);
-	void merge(int p, int q, int r);
-	void mergeSort(int order, int p, int r);
 	void print();
 };
 

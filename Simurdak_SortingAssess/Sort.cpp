@@ -120,24 +120,12 @@ void Sort::insertSort(int order)
 	}
 }
 
-void Sort::merge(int p, int q, int r)
-{
-	const int leftEnd = q - p + 1;
-	int rightEnd = r - q;
-	int* L[100];
-	int* R[100];
-}
-
-void mergeSort(int order, int p, int r)
-{
-
-}
-
 void Sort::print()
 {
+	cout << endl;
 	for (int i = 0; i < arrSize; ++i)
 	{
 		cout << arr[i] << " ";
 	}
-	cout << endl;
+	cout << endl << endl;
 }
